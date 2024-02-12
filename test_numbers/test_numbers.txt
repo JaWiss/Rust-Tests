@@ -1,0 +1,49 @@
+Number of Number: 1000, Highest possible number: 10000000
+Bubblesort:    30.958781ms
+Quicksort :    192.765041ms
+Rust Sort :    167.989µs
+Mergesort :    758.725µs
+
+Number of Number: 1000, Highest possible number: 40000000
+Bubblesort:    27.613262ms
+Quicksort :    708.048967ms
+Rust Sort :    172.152µs
+Mergesort :    778.28µs
+
+Number of Number: 1000, Highest possible number: 70000000
+Bubblesort:    27.539333ms
+Quicksort :    1.240185272s
+Rust Sort :    167.005µs
+Mergesort :    757.028µs
+
+Number of Number: 1000, Highest possible number: 100000000
+Bubblesort:    27.635598ms
+Quicksort :    1.778599459s
+Rust Sort :    174.173µs
+Mergesort :    798.329µs
+
+Number of Number: 8000, Highest possible number: 10000000
+Bubblesort:    2.044751906s
+Quicksort :    207.761891ms
+Rust Sort :    1.749984ms
+Mergesort :    7.594578ms
+
+Number of Number: 8000, Highest possible number: 40000000
+Bubblesort:    1.885589061s
+Quicksort :    839.593893ms
+Rust Sort :    1.801992ms
+Mergesort :    8.588439ms
+
+Number of Number: 8000, Highest possible number: 70000000
+Bubblesort:    1.977649813s
+Quicksort :    1.435121607s
+Rust Sort :    1.70321ms
+Mergesort :    10.753096ms
+
+Number of Number: 8000, Highest possible number: 100000000
+Bubblesort:    1.879650765s
+Quicksort :    2.108500588s
+Rust Sort :    1.776608ms
+Mergesort :    7.204917ms
+
+Number of Number: 15000, Highest possible number: 10000000
