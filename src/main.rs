@@ -5,7 +5,7 @@ use std::io::prelude::*;
 
 fn main() {
     let mut file = File::create("test_numbers/test_numbers.txt").expect("error creating file");
-    for limit in (1_000..50_000).step_by(7000) {
+    for limit in (1_000..=76_000).step_by(5000) {
         for length in (10_000_000..=100_000_000).step_by(30_000_000) {
             let intro = format!("Number of Number: {}, Highest possible number: {}\n",limit, length);
             file.write_all(intro.as_bytes()).expect("error writing");;
